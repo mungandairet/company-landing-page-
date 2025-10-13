@@ -1,0 +1,8 @@
+h1 { text-align: center; }
+.firstheader { color: rgb(231, 139, 19); font-size: 95px; background-image: url(https://static.vecteezy.com/system/resources/previews/048/830/911/non_2x/businessman-is-presenting-a-pyramid-shaped-corporate-organigram-photo.jpeg); background-size: cover; margin-top: 0cap; margin-bottom: 0cap;}
+.secondheader { color: rgb(19, 105, 231); font-size: 45px; ; background-size: cover; margin-top: 0cap; margin-bottom: 0cap;}
+body { font-family: Arial, Helvetica, sans-serif, sans-serif; margin: 0; padding: 0px; background-color: #b4b2b2; }
+header { background-color: #35424a; color: #ffffff; padding: 25px; text-align: center; }
+footer { background-color: #35424a; color: #ffffff; text-align: center; padding: 1px; font-variant-position: super; bottom: 0; width: 100%; }
+h4:hover{cursor: pointer;}
+h2{cursor: pointer;}
